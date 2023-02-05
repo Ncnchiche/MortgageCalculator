@@ -1,5 +1,5 @@
 <h1 align="center">MortgageCalculator</h1>
 
-## Program Description
+## What is this?
 
-Calculates Mortgage Payments
+Small C program that Calculates Mortgage Payments
